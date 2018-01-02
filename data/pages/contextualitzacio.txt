@@ -1,0 +1,9 @@
+====== CONTEXTUALITZACIÓ ======
+  - Descripció del projecte
+  - Objectius
+  - Història
+  - Estat Actual
+  - Objectiu actual
+  - Característiques destacades 
+  - Beneficis
+  - Components
